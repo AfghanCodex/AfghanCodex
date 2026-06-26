@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahsan ullah Afghan</h1>
+<h1 align="center">Hi 👋, I'm Ehsan ullah Afghan</h1>
 <h3 align="center">A passionate Full Stack developer from Afghanistan</h3>
 
 <p align="left"> <a href="https://twitter.com/ahsanullah afghan" target="blank"><img src="https://img.shields.io/twitter/follow/ahsanullah afghan?logo=twitter&style=for-the-badge" alt="ahsanullah afghan" /></a> </p>
